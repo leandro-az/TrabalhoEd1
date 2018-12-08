@@ -1,0 +1,27 @@
+15
+b
+c
+d
+e
+f
+g
+h
+i
+j
+l
+m
+n
+o
+p
+a
+e g 10
+g f 20
+e f 50
+f d 12
+h i 6
+j l 1
+m n 2
+o p 1
+c i 7
+d g 58
+b a 1
